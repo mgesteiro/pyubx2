@@ -1,3 +1,13 @@
+# CHANGES
+
+I started to add support for some of the generation 9 messages, but right
+after it, the original author started to do the same 🤷‍♂️
+
+Thus, this fork has ben stalled: you can go to [the original project](https://github.com/semuconsulting/pyubx2) or
+have a look at [a different approach I took](https://github.com/mgesteiro/ublox9) 
+to cover my needs.
+
+
 pyubx2
 =======
 
